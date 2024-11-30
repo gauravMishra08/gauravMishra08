@@ -65,8 +65,11 @@
 > I’m passionate about creating intuitive, functional designs that make a difference. If you’re a **team player**, **problem solver**, or just love the creative process, **let’s connect**! 🎨✨
 
 <p align="left">
-  <img src="https://media.giphy.com/media/3ohs4kX2vYP6Ekm6Ys/giphy.gif" alt="Let's Build Together" width="400" />
+  <img src="https://media.giphy.com/media/26BRvHz5nTkpsP8Q4/giphy.gif" alt="Let's Build Together" width="400" />
 </p>
+
+
+
 
 ---
 
