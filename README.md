@@ -1,25 +1,25 @@
 <div align="center">
   <h1 style="font-family: 'Roboto', sans-serif; color: #ff4081;">Hi, I'm Gaurav! 👋</h1>
-  <p style="color: #6200ea; font-size: 1.2em;">A **UI/UX Designer** and **Frontend Developer**, passionate about creating user-centered digital experiences. Let’s collaborate! 🎨✨</p>
+  <p style="color: #6200ea; font-size: 1.2em;">A UI/UX Designer and Frontend Developer, passionate about creating user-centered digital experiences. Let’s collaborate! 🎨✨</p>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4081&width=435&lines=UI%2FUX+Designer;Frontend+Developer;Creative+Mind;Innovative+Solutions" alt="Typing Animation" />
   
-  <p style="color: #6200ea; font-size: 1.3em;">🚀 Let’s create something **amazing** together!</p>
+  <p style="color: #6200ea; font-size: 1.3em;">🚀 Let’s create something amazing together!</p>
 </div>
 
 ---
 
 ### 🌟 About Me
 
-- **Currently working on**: **UNISPHERE** - A platform for creativity and collaboration.  
-- **Skills**: UI/UX Design, Frontend Development (HTML, CSS, JavaScript, React.js), Figma.  
-- **Passions**: Transforming ideas into beautiful, functional designs.
+- Currently working on **UNISPHERE** - A platform for creativity and collaboration.
+- Skills: UI/UX Design, Frontend Development (HTML, CSS, JavaScript, React.js), Figma.
+- Passions: Transforming ideas into beautiful, functional designs.
 
 ---
 
 ### 🔗 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gaurav-mishra-2668691b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/_mishraagaurav/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:gaurav84294372@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -29,7 +29,7 @@
 
 ### ⚙️ My Tools and Skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git&perline=5" alt="Tools" />
 </p>
 
@@ -37,9 +37,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravMishra08&show_icons=true&theme=radical" alt="Gaurav's GitHub Stats" />
-</div>
+</p>
 
 ---
 
