@@ -17,6 +17,12 @@
 
 ---
 
+### ✨ Bio
+
+**A hustler who values hard work**, all in with every pursuit. An overthinker and a writer without words for myself, carrying more than a book could hold.
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -30,7 +36,7 @@
 ### ⚙️ My Tools and Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git&perline=5" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,python,java,c,cplusplus,canva&perline=10&animation=true" alt="Tools" />
 </p>
 
 ---
