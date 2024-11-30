@@ -1,9 +1,6 @@
 <div style="text-align: left;">
   <h1 style="font-family: 'Montserrat', sans-serif; color: #ff4081; font-size: 3em; letter-spacing: 1px; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">Hi, I'm Gaurav! 👋</h1>
-  
-  <div style="font-size: 1.5em; color: #6200ea; font-family: 'Roboto', sans-serif;">
-    UI/UX Designer | Frontend Developer
-  </div>
+
 
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF4081&width=435&lines=UI%2FUX+Designer;Frontend+Developer;Creative+Mind" alt="Typing Animation" />
