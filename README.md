@@ -1,70 +1,109 @@
-# Hi there 👋, I'm Gaurav Mishra
-
-A passionate **UI/UX Designer** and **Frontend Developer** focused on creating user-centric designs and seamless web experiences. I’m constantly learning, pushing boundaries, and crafting solutions that are as intuitive as they are innovative.
+<!-- GitHub Profile README -->
+<div align="center">
+  <h1>Hi 👋, I'm Gaurav Mishra</h1>
+  <p>A passionate **UI/UX Designer** and **Frontend Developer** focused on creating user-centric designs and seamless web experiences. I’m constantly learning, pushing boundaries, and crafting solutions that are as intuitive as they are innovative.</p>
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F85DE&width=435&lines=UI%2FUX+Designer;Frontend+Developer;Tech+Enthusiast;Passionate+Lifelong+Learner" alt="Typing Animation" />
+  
+  <br><br>
+  <p>🚀 Let's connect and build something amazing together!</p>
+</div>
 
 ---
 
 ### 🌟 About Me
 
-- 🔭 Currently working on **UNISPHERE**, an educational community platform, and enhancing my **UI/UX design** portfolio.
-- 🌱 Learning **backend development** and diving deeper into **advanced design principles**.
+- 🔭 I’m currently working on **UNISPHERE**, an educational community platform, and enhancing my **UI/UX design** portfolio.
+- 🌱 I’m currently learning **backend development** and diving deeper into **advanced design principles**.
 - 💬 Ask me about **design, frontend development**, or **project collaboration**.
 - 🎨 Check out my [portfolio](https://portfolio-vert-six-50.vercel.app/).
 - 📫 Reach me via **[Email](mailto:gaurav84294372@gmail.com)**.
+- ⚡ Fun Fact: I’m a multitasker who thrives on creativity and inspiration, always eager to learn something new.
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-mishra-2668691b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_mishraagaurav/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurav84294372@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-mishra-2668691b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_mishraagaurav/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:gaurav84294372@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ### ⚙️ Languages and Tools
 
-![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,canva,html,css,js,react,git,java,python,c,cpp&perline=5" alt="Tools Icons" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravMishra08&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravMishra08&layout=compact&theme=radical)
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravMishra08&show_icons=true&theme=radical" alt="Gaurav's GitHub Stats" />
+  <br><br>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravMishra08&theme=radical" alt="Gaurav's Streak Stats" />
+  <br><br>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravMishra08&layout=compact&theme=radical" alt="Gaurav's Top Languages" />
+</div>
 
 ---
 
 ### 🚀 Current Focus
 
-- **UNISPHERE Project**: Building an educational platform to foster collaboration and knowledge sharing.
-- **Frontend Development**: Crafting responsive and intuitive user interfaces.
-- **UI/UX Design**: Improving user experiences through innovative design practices.
+- **UNISPHERE Project**: Building an innovative educational platform to foster collaboration and knowledge sharing.
+- **Frontend Development**: Crafting visually appealing, responsive, and accessible user interfaces.
+- **UI/UX Design**: Mastering advanced design principles to improve user experiences.
 
 ---
 
 ### 🎯 My Goals
 
 - Contribute to open-source projects that align with my interests.
-- Collaborate with like-minded developers and designers on impactful projects.
-- Sharpen my skills in **full-stack development** and **advanced design techniques**.
+- Collaborate with passionate individuals on meaningful, impactful projects.
+- Strengthen my expertise in **full-stack development** and **advanced design techniques**.
 
 ---
 
 ### 💡 Fun Fact
 
-I’m a lifelong learner, always curious and exploring new technologies, design methods, and creative possibilities. I love turning ideas into reality.
+I’m a lifelong learner, always eager to explore new technologies, design methodologies, and creative possibilities. I enjoy turning ideas into reality and continually pushing the envelope in both design and development.
 
 ---
 
-### 🚀 How to Use This Profile
+### 🚀 Fun Animation
 
-- Feel free to explore my GitHub repositories, where I share both design and development projects.
-- Check out my portfolio for more detailed work samples.
+<div align="center">
+  <img src="https://github.com/gauravMishra08/gauravMishra08/blob/main/assets/animation.gif" width="600" alt="Cool Animation GIF" />
+</div>
 
 ---
 
 ### ⚡ Final Thoughts
 
-Thank you for visiting my profile! Let’s connect and collaborate on projects that make a difference. Don’t hesitate to reach out!
+Thank you for visiting my profile! I’m always open to collaboration and excited to work on projects that create a positive impact. Feel free to reach out to me anytime!
+
+---
+
+### ⚠️ Final Checklist
+
+1. Replace any placeholder links, including the animation GIF.
+2. Ensure your GitHub username matches the links in the **GitHub Stats** section.
+3. Add any other creative elements, such as custom badges, to further personalize the profile.
+
+Let me know if you need further adjustments! 😊
