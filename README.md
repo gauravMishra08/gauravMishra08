@@ -15,8 +15,6 @@
 
 - **Creative & Detail-Oriented** UI/UX Designer who’s always looking to make intuitive, user-friendly designs come to life.
 - Passionate about **Frontend Development** (HTML, CSS, JavaScript) and **UI/UX** tools like **Figma**.
-- A **hustler** who values hard work, bringing **every pursuit** to life with dedication.
-- **Overthinker**, constantly questioning and improving design and tech, seeking solutions to real-world problems.
 - Currently exploring **React.js** to push creative boundaries.
 
 ---
@@ -30,7 +28,7 @@
 ### 📚 **My Tools & Skills**:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,python,java,c,cplusplus,canva&perline=10&animation=true" alt="Tools & Skills" style="max-width: 100%;"/>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,python,java,c,c++,canva &perline=10&animation=true" alt="Tools & Skills" style="max-width: 100%;"/>
 </p>
 
 ---
@@ -63,13 +61,6 @@
 
 > "Design is not just about making things pretty; it’s about making things work."  
 > I’m passionate about creating intuitive, functional designs that make a difference. If you’re a **team player**, **problem solver**, or just love the creative process, **let’s connect**! 🎨✨
-
-<p align="left">
-  <img src="https://media.giphy.com/media/26BRvHz5nTkpsP8Q4/giphy.gif" alt="Let's Build Together" width="400" />
-</p>
-
-
-
 
 ---
 
