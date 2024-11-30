@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: left;">
   <h1 style="font-family: 'Montserrat', sans-serif; color: #ff4081; font-size: 3em; letter-spacing: 1px; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">Hi, I'm Gaurav! 👋</h1>
   
   <div style="font-size: 1.5em; color: #6200ea; font-family: 'Roboto', sans-serif;">
@@ -29,7 +29,7 @@
 
 ### 📚 **My Tools & Skills**:
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,python,java,c,cplusplus,canva&perline=10&animation=true" alt="Tools & Skills" />
 </p>
 
@@ -37,7 +37,7 @@
 
 ### 🔗 **Connect with Me**:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gaurav-mishra-2668691b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/_mishraagaurav/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:gaurav84294372@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -47,7 +47,7 @@
 
 ### 📊 **GitHub Stats**:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravMishra08&show_icons=true&theme=radical&count_private=true" alt="Gaurav's GitHub Stats" width="400" />
 </p>
 
@@ -64,8 +64,8 @@
 > "Design is not just about making things pretty; it’s about making things work."  
 > I’m passionate about creating intuitive, functional designs that make a difference. If you’re a **team player**, **problem solver**, or just love the creative process, **let’s connect**! 🎨✨
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZkNzVjNjdiNzI1NTU3ZjFkMDE0ZTc4OTg4OGYwNzMwYjJlYmNhMCZjdD1n/6u6jGz7f61g0EwAzC6/giphy.gif" alt="Let's Build Together" width="400" />
+<p align="left">
+  <img src="https://media.giphy.com/media/3ohs4kX2vYP6Ekm6Ys/giphy.gif" alt="Let's Build Together" width="400" />
 </p>
 
 ---
