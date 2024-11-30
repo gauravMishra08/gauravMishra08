@@ -35,21 +35,13 @@
 
 ---
 
-### 📊 **GitHub Stats**:
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="width: 48%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravMishra08&theme=radical" alt="GitHub Streak" width="100%" />
-  </div>
----
-
 ### 🌍 **What I’m Working On**:
 - Currently developing **UNISPHERE** - A platform for creative minds to collaborate and innovate.
 
 ---
 
 ### 🚀 **Let’s Build Something Together**:
-> "Design is not just about making things pretty; it’s about making things work."  
+> "Design is not just about making things pretty, it’s about making things work."  
 > I’m passionate about creating intuitive, functional designs that make a difference. If you’re a **team player**, **problem solver**, or just love the creative process, **let’s connect**! 🎨✨
 
 ---
