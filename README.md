@@ -2,11 +2,11 @@
   <h1 style="font-family: 'Montserrat', sans-serif; color: #ff4081; font-size: 3em; letter-spacing: 1px; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">Hi, I'm Gaurav! 👋</h1>
   
   <div style="font-size: 1.5em; color: #6200ea; font-family: 'Roboto', sans-serif;">
-    A UI/UX Designer | Frontend Developer | Innovator | Passionate Creator
+    UI/UX Designer | Frontend Developer
   </div>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF4081&width=435&lines=UI%2FUX+Designer;Frontend+Developer;Creative+Mind;Innovative+Solutions;Collaborator;Technophile" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF4081&width=435&lines=UI%2FUX+Designer;Frontend+Developer;Creative+Mind" alt="Typing Animation" />
 </div>
 
 ---
@@ -17,14 +17,13 @@
 - Passionate about **Frontend Development** (HTML, CSS, JavaScript) and **UI/UX** tools like **Figma**.
 - A **hustler** who values hard work, bringing **every pursuit** to life with dedication.
 - **Overthinker**, constantly questioning and improving design and tech, seeking solutions to real-world problems.
-- Currently exploring **React.js** and **Machine Learning** to push creative boundaries.
+- Currently exploring **React.js** to push creative boundaries.
 
 ---
 
 ### 🎯 **A Bit More About Me**:
 
-> **"I’m a writer without words for myself. Carrying more than a book could hold."** - I live to create, think, and build; with each project, I transform ideas into reality.
-
+> **"I’m a writer without words for myself. Carrying more than a book could hold."
 ---
 
 ### 📚 **My Tools & Skills**:
@@ -33,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,python,java,c,cplusplus,canva&perline=10&animation=true" alt="Tools & Skills" />
 </p>
 
-> **Tools I use daily to bring designs to life**: Figma, HTML/CSS, JavaScript, React, C++, Python, Java, Git, Canva.
 
 ---
 
@@ -58,7 +56,6 @@
 ### 🌍 **What I’m Working On**:
 
 - Currently developing **UNISPHERE** - A platform for creative minds to collaborate and innovate.
-- Exploring **Machine Learning** to bring smarter solutions to design and tech.
 
 ---
 
@@ -75,7 +72,7 @@
 
 ### 🧠 **Final Thoughts**:
 
-> "The best designs come from a mix of creativity, persistence, and collaboration."  
+> "Everything is designed, Few things are designed well."
 > Reach out to me if you're interested in **building** or **brainstorming** something creative, or if you just want to **connect**. Let's make things happen! 💡🚀
 
 ---
