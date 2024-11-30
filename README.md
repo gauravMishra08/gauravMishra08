@@ -30,7 +30,7 @@
 ### 📚 **My Tools & Skills**:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,python,java,c,cplusplus,canva&perline=10&animation=true" alt="Tools & Skills" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,python,java,c,cplusplus,canva&perline=10&animation=true" alt="Tools & Skills" style="max-width: 100%;"/>
 </p>
 
 ---
