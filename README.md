@@ -23,7 +23,8 @@
 
 ### 🎯 **A Bit More About Me**:
 
-> **"I’m a writer without words for myself. Carrying more than a book could hold."
+> **"I’m a writer without words for myself. Carrying more than a book could hold."**
+
 ---
 
 ### 📚 **My Tools & Skills**:
@@ -31,7 +32,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,python,java,c,cplusplus,canva&perline=10&animation=true" alt="Tools & Skills" />
 </p>
-
 
 ---
 
