@@ -36,8 +36,7 @@
 ---
 
 ### 🌍 **What I’m Working On**:
-- Currently developing **UNISPHERE** - A platform for creative minds to collaborate and innovate.
-
+- Currently developing **Studique & Unify** - A platform for creative minds to collaborate and innovate.
 ---
 
 ### 🚀 **Let’s Build Something Together**:
