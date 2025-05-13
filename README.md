@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF4081&width=435&lines=UI%2FUX+Designer;Frontend+Developer;Creative+Mind" alt="Typing Animation" />
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gauravmishra01&style=flat-square&color=ff4081" alt="Profile Views" />
-</p>
 
 ---
 
