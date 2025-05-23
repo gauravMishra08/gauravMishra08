@@ -2,11 +2,9 @@
   <h1 style="font-family: 'Montserrat', sans-serif; color: #ff4081; font-size: 3em; letter-spacing: 1px; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);">
     Hi, I'm Gaurav Mishra :)
   </h1>
-
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF4081&width=435&lines=UI%2FUX+Designer;Frontend+Developer;Creative+Mind" alt="Typing Animation" />
 </div>
-
 
 ---
 
@@ -46,7 +44,7 @@
 ---
 
 ### **My Portfolio**:
-- [Check out my Portfolio here!](https://portfolio-gaurav-nine.vercel.app/)
+- [Check out my Portfolio here!](https://gauravmishra08.vercel.app/)
 
 ---
 
