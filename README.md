@@ -49,8 +49,8 @@
 
 
 **Ready to work together?**  
-📩 **Email:** gaurav84294372@gmail.com  
-🌐 **Portfolio:** gauravmishra08.vercel.app
+**Email:** gaurav84294372@gmail.com  
+**Portfolio:** gauravmishra08.vercel.app
 
 <div align="center">
   
