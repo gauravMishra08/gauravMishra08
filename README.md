@@ -5,7 +5,7 @@
 </div>
 
 ## What I'm Working On:
-**CampusOrbit** – A place for SRM students to handle academics, hostel needs, and campus life.
+**Studique** – A place for SRM students to handle academics, hostel needs, and campus life.
 
 **GetItDone** – A secure platform for hiring freelancers and managing projects.
 
