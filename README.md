@@ -1,19 +1,20 @@
 # **Hi, I'm Gaurav Mishra :)**
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=false&vCenter=true&width=800&height=60&lines=Crafting+User-Centric+Designs...;Frontend+Developer+with+a+Creative+Edge...;Exploring+iOS+App+Development...;Designing+Purposeful+Digital+Journeys..." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=false&vCenter=true&width=900&height=60&lines=UI%2FUX+Designer;Frontend+Developer;iOS+Developer" alt="Typing animation" />
 </div>
 
-## What I'm Working On:
-**Studique** – A place for SRM students to handle academics, hostel needs, and campus life.
-
-**GetItDone** – A secure platform for hiring freelancers and managing projects.
+## What I'm Working On
+- **Studique** – An all-in-one digital campus companion  
+- **iOS Development** – Designing and building application for Apple devices
 
 ## Connect with Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://gauravmishra08.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-mishra-2668691b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/_mishraagaurav/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white)](mailto:gaurav84294372@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://gauravmishra08.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gaurav-mishra-2668691b3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/_mishraagaurav/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:gaurav84294372@gmail.com)
+[![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge)](https://www.figma.com/@gaurav08)
+
 
 ## My Tools & Skills:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
