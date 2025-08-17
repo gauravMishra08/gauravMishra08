@@ -50,7 +50,7 @@
 </p>
 
 
-## <span style="color:#FF652F">GitHub Stats</span>
+## GitHub Stats
 <p align="center">
   <table>
     <tr>
@@ -63,5 +63,5 @@
     </tr>
   </table>
 
-
+<img src="https://pacman.abozanona.me?username=gauravMishra08" />
 
