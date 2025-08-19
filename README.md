@@ -23,7 +23,7 @@
 </p>
 
 
-## My Tools & Skills
+## Tools & Skills
 <p align="left">
 <img src="https://img.shields.io/badge/Figma-FF652F?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer-FF652F?style=flat-square&logo=framer&logoColor=white"/>
