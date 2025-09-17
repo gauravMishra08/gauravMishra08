@@ -50,18 +50,6 @@
 </p>
 
 
-## GitHub Stats
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gauravMishra08&show_icons=true&theme=radical&count_private=true&bg_color=0D1117&title_color=38FDD8&icon_color=79FF97&text_color=FFFFFF&hide_border=true" width="450" height="230"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravMishra08&theme=radical&background=0D1117&ring=38FDD8&fire=38FDD8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" width="450" height="230"/>
-      </td>
-    </tr>
-  </table>
 
 <img src="https://pacman.abozanona.me?username=gauravMishra08" />
 
