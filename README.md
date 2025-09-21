@@ -9,7 +9,7 @@
 
 
 ## What I'm Working On
-**Studique** - A campus companion for SRM with notes, papers, attendance, marks, events, timetable, mess menus, faculty finder and GPA calculators.
+**Studique** - A campus companion for SRM with notes, papers, attendance, marks, events, timetable, mess menus, faculty finder and GPA calculators.<br>
 **iOS Development** - Working with a team on an iOS app, handling the full product lifecycle from idea to launch.
 
 ## Connect with Me
