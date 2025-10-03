@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/gaurav-mishra-2668691b3/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/_mishraagaurav/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-38FDD8?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
 <a href="mailto:gaurav84294372@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
-<a href="https://www.figma.com/@gaurav08" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-38FDD8?style=for-the-badge&logo=figma&logoColor=black" alt="Figma"/></a>
 </p>
 
 
