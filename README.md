@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="left">
-<img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="6000" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+<img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="1500" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
 </p>
 
 
@@ -52,11 +52,17 @@
 
 ## GitHub Stats
 
-<p align="left">
+<p align="center">
+  <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=gauravMishra08&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=gauravMishra08&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravMishra08&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
-<p align="left">
+<p align="center">
   <img src="https://pacman.abozanona.me?username=gauravMishra08" />
 </p>
