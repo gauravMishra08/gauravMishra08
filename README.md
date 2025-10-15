@@ -1,7 +1,9 @@
 <h1 align="left">Hi, I'm Gaurav Mishra :)</h1>
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&left=true&width=900&height=60&lines=UI%2FUX+Designer;Frontend+Developer;iOS+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38FDD8&left=true&width=900&height=60&lines=UI%2FUX+Designer;Frontend+Developer;iOS+Developer" alt="Typing SVG" />
+  </a>
 </p>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif" width="6000" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
@@ -9,15 +11,16 @@
 
 
 ## What I'm Working On
-**Studique** - A campus companion for SRM with notes, papers, attendance, marks, events, timetable, mess menus, faculty finder and GPA calculators.<br>
-**iOS Development** - Working with a team on an iOS app, handling the full product lifecycle from idea to launch.
+- **Studique** → A campus companion for SRM (ppts, pyqs, attendance, marks, events, timetable, mess menus, faculty finder, GPA calculators).  
+- **iOS Development** → Building an app with a team, handling the product lifecycle from idea to launch.
+
 
 ## Connect with Me
 <p align="left">
-<a href="https://gauravmishra08.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-38FDD8?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/gaurav-mishra-2668691b3/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/_mishraagaurav/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-38FDD8?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
-<a href="mailto:gaurav84294372@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
+<a href="https://gauravmishra.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-38FDD8?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/gaurav-mishra-2668691b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-38FDD8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/_mishraagaurav/" target="_blank"><img src="https://img.shields.io/badge/Instagram-38FDD8?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
+<a href="mailto:gaurav84294372@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-38FDD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/></a>
 </p>
 
 
@@ -47,7 +50,13 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
 
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravMishra08&theme=tokyo-night&hide_border=true"/>
+</p>
 
 
-<img src="https://pacman.abozanona.me?username=gauravMishra08" />
-
+<p align="left">
+  <img src="https://pacman.abozanona.me?username=gauravMishra08" />
+</p>
